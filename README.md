@@ -6,6 +6,10 @@ The pupose of this app is to help students locate classroomsin and give them dir
 ## User Story
 As A UTSA student at the downtown campus
 
-I WANT to find a classroom in the campus
+I WANT to find a place to dine downtown.  
 
-SO THAT I can get directions to a new class room
+I need walking directions to the resturant.
+
+I need nutritional information on food served at location.
+
+![](images/project_01.png)

@@ -1,5 +1,7 @@
 # Bing Me Food - Class_Project_01
 
+First class project - Collaborated with Hector and Kristian
+
 ## Purpose
 The pupose of this app is to help students locate places to eat in Downtown San Antonio and give them directions in real time walking distance.  The app provides nutritional information from places that serve food.
 
